@@ -1,0 +1,7 @@
+*.vcd
+*.vvp
+*.log
+work/
+xcelium.d/
+simv*
+csrc/
